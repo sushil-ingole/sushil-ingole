@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sushil Ingole.</h1>
-<h3 align="center">A passionate web developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Sushil.</h1>
+<h3 align="center">🚀 Passionate Web Developer | Angular & React Enthusiast 🚀</h3>
 
 - 🔭 I’m currently working on [SpeakIn - Realtime Chat App](https://ichat-rxvq.onrender.com/)
 
