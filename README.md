@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushil.</h1>
+<h1 align="center">Hi there 👋, I'm Sushil.</h1>
 <h3 align="center">🚀 Passionate Web Developer | Angular & React Enthusiast 🚀</h3>
 
 <p align="center">🔭 I’m currently working on <a href="https://ichat-rxvq.onrender.com/">SpeakIn - Realtime Chat App</a></p>
