@@ -5,7 +5,7 @@
 
 <p align="center">🌱 I’m currently learning <strong>React, React Native, NextJS, etc.</strong></p>
 
-<p align="center">👨‍💻 All of my projects are available at <a href="https://sushilportfolio.netlify.app/" target="_blank ">https://sushilportfolio.netlify.app/</a></p>
+<p align="center">👨‍💻 All of my projects are available at <a href="https://sushilportfolio.netlify.app/" target="_blank">https://sushilportfolio.netlify.app/</a></p>
 
 <p align="center">📫 How to reach me: <a href="mailto:sushilingole2024@gmail.com">sushilingole2024@gmail.com</a></p>
 
