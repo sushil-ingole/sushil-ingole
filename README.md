@@ -3,7 +3,7 @@
 
 <p align="center">🔭 I’m currently working on <a href="https://ichat-rxvq.onrender.com/">SpeakIn - Realtime Chat App</a></p>
 
-<p align="center">🌱 I’m currently learning <strong>React, React Native, NextJS, etc.</strong></p>
+<p align="center">🌱 I’m currently learning <strong>React Native, NextJS, etc.</strong></p>
 
 <p align="center">👨‍💻 All of my projects are available at <a href="https://sushilportfolio.netlify.app/" target="_blank">https://sushilportfolio.netlify.app/</a></p>
 
